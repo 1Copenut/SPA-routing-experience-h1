@@ -33,4 +33,4 @@ This repo requires you to type a few commands into a terminal window. Commands a
 * [How to Deploy a Routed React App to GitHub Pages](https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/)
 
 ## Known issues for this solution
-* H1 has a focus halo in `['Chrome', ]`. This may not be an issue, but is an open question. I feel having a focus halo on elements that are not part of the normal tab order could be confusing.
+* H1 has a focus halo in `['Chrome', 'Edge', 'Firefox', 'Safari']`. This may not be an issue, but is an open question. I feel having a focus halo on elements that are not part of the normal tab order could be confusing.
