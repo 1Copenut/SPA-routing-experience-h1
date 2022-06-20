@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SPA-routing-experience-h1/static/css/main.c533dbab.css",
+    "main.js": "/SPA-routing-experience-h1/static/js/main.9c73afcd.js",
+    "index.html": "/SPA-routing-experience-h1/index.html",
+    "main.c533dbab.css.map": "/SPA-routing-experience-h1/static/css/main.c533dbab.css.map",
+    "main.9c73afcd.js.map": "/SPA-routing-experience-h1/static/js/main.9c73afcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c533dbab.css",
+    "static/js/main.9c73afcd.js"
+  ]
+}
